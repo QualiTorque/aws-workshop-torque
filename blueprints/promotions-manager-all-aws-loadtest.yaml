@@ -5,7 +5,7 @@ metadata:
     All in one deployment of our promotions manager
     
 clouds: 
-  - aws-workshop: us-west-2
+  - aws-workshop: eu-west-1
   
 artifacts:
   - promotions-manager-ui: artifacts/latest/promotions-manager-ui.master.tar.gz
